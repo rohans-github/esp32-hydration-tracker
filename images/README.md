@@ -1,1 +1,1 @@
-# Images for Hydration Tracker Project
+# Media for Hydration Tracker Project
