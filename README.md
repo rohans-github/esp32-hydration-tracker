@@ -1,5 +1,5 @@
 # Hydration Tracker Using ESP32 Microcontroller
-Created by Rohan Chadha
+Created by Rohan
 
 ## Table of Contents
 * [Report](#report)
