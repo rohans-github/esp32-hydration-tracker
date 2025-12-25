@@ -13,6 +13,8 @@ Created by Rohan
 ### Quick Overview
 The Hydration Tracker is a smart water bottle scale that helps users maintain proper hydration throughout the day. The device monitors water consumption in real-time, provides visual feedback on hydration status through the onboard LED and the website it hosts, and logs historical data for tracking progress over time.
 
+![Complete System](images/complete_system.jpg)
+
 ### Component Overview
 For the Hydration Tracker hardware, the following components are required:
 * ESP32-C6-DevKitC-1 Microcontroller
